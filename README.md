@@ -23,3 +23,6 @@
 
 - [ ] Add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to Github
 - [ ] Submit this assignment by making a `pull request`
+
+### Create and Import Node Modules Instructions
+https://github.com/tylerdance/node-express

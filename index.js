@@ -6,16 +6,16 @@ function printFoods(foods) {
         return foods;
     }
 }
-// console.log(printFoods(favFoods));
+console.log(printFoods(favFoods));
 
 
 // chalk npm
 const chalk = require('chalk');
-// console.log(chalk.red('hi'));
+console.log(chalk.red('hi'));
 
 // colors npm
 const colors = require('colors');
-// console.log('hello'.green);
+console.log('hello'.green);
 
 // luxon npm
 const luxon = require('luxon');
